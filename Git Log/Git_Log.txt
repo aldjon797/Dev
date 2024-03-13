@@ -1,0 +1,4 @@
+PS C:\Users\aldos\OneDrive\Desktop\Development> git config --global user.email "kelilomi12@gmail.com"           
+PS C:\Users\aldos\OneDrive\Desktop\Development> git config --global user.name "AldjonSida"  
+
+Usalo quando si impalla il terminale.
